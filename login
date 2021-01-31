@@ -63,6 +63,6 @@ button {
             <button type="button" class="cancelbtn"> Cancel</button>   
             Forgot <a href="#"> password? </a>  
 	</div>
-
+<h4>Thank you for your cooperation</h4>
 </body>
 </html>
